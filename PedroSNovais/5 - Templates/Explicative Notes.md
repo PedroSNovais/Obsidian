@@ -1,17 +1,13 @@
 {{date}} - {{time}}
-
-
-Tags:
+#Explicação 
 
 ---
-# Conceito Geral
+# Explicação
 
 
 
 ---
-
-
-
 ---
 ## Referências 
-
+ -  
+ - 

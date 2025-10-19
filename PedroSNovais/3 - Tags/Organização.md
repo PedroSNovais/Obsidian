@@ -1,17 +1,16 @@
-#Conceito #Principal 
+2025-10-19 - 16:58
+#Conceito 
+
 
 ---
 # Conceito Geral
 
-Se organizar vai além de manter a casa limpa ou lavar o banheiro toda semana, é uma questão muito mais profunda que envolve mentalidade e a padronização da [[Rotina]] .
+Organização é não deixar as coisas bagunçadas, seguir um padrão, manter tudo em seu lugar devido visando a eficiência na manipulação de tal coisa. 
+
 
 ---
-## Motivo
-
-A Ideia de me organizar vem pairando sobre minha cabeça  à muito tempo e , mesmo sem perceber, venho fazendo isso aos poucos. Comecei a utilizar esse aplicativo justamente para melhorar esse elemento na minha vida, com esse objetivo também criei essa tag
-
 ---
-## Referências
--  [[eu]]
-- [[Rotina]] 
-- [[Obsidian]]
+## Referências 
+ - [[Me organizar]]
+ - [[Obsidian]]
+
