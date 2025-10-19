@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ca75ec26e1294f32",
+        "id": "c302d92d63cb09fc",
         "type": "tabs",
         "children": [
           {
-            "id": "825d6da71899d629",
+            "id": "50581d8239052d01",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -162,22 +162,29 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "825d6da71899d629",
+  "active": "50581d8239052d01",
   "lastOpenFiles": [
-    "hábitos.md",
-    "Rotina/rotina.md",
-    "me organizar.md",
-    "mentalidade.md",
-    "ideia.md",
-    "Eu.md",
-    "insights/insight.md",
-    "Rotina",
+    "3 - Tags/Rotina.md",
+    "6 - Full Notes/eu.md",
+    "3 - Tags/Mentalidade.md",
+    "5 - Templates/Generic Note.md",
+    "3 - Tags/Organização.md",
+    "3 - Tags/insight.md",
+    "3 - Tags/Ideia.md",
+    "3 - Tags/hábitos.md",
+    "Nota de Teste.md",
+    "6 - Full Notes",
+    "5 - Templates",
+    "4 - Indexes",
+    "3 - Tags",
+    "2 - Source Materials",
+    "1 - Rought Notes",
+    "7 -  Rotina",
     "Sem título.base",
     "2025-10-18.md",
     "Sem título.canvas",
-    "insights",
+    "1 - Rought Notes/insights",
     "insi",
-    "Cérebro",
     "Bem-vindo.md",
     "crie um link.md"
   ]
