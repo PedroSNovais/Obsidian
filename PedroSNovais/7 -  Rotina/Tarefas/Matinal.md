@@ -2,11 +2,12 @@
 Tags: [[Rotina]] /  [[hábitos]]
 
 ---
+- [ ] Acordar no primeiro alarme ⏫ 🔁 every day 📅 2025-10-20
+- [ ] Acordar no primeiro alarme ⏫ 🔁 every day 📅 2025-10-20
 - [ ] Acordar no primeiro alarme ⏫ 🔁 every day 📅 2025-10-19
 ---
-- [ ] Acordar no primeiro alarme ⏫ 🔁 every day 📅 2025-10-19
----
-- [ ] Beber um copo de água 📅 2025-10-19 🔁 every day 🔽 
+- [ ] Beber um copo de água 🔽 🔁 every day 📅 2025-10-20
+- [ ] Beber um copo de água 🔽 🔁 every day 📅 2025-10-19
 ---
 - [ ] Treino do APP 📅 2025-10-19 🔁 every day 🔼 
 ---
@@ -14,7 +15,8 @@ Tags: [[Rotina]] /  [[hábitos]]
 ---
 - [ ] Banho frio 📅 2025-10-19 🔁 every day ⏫ 
 ---
-- [ ] Arrumar a cama 📅 2025-10-19 🔁 every day ⏫ 
+- [ ] Arrumar a cama ⏫ 🔁 every day 📅 2025-10-20
+- [x] Arrumar a cama ⏫ 🔁 every day 📅 2025-10-19 ✅ 2025-10-19
 ---
 - [ ] Fazer café 📅 2025-10-19 🔁 every day 🔼 
 ---
