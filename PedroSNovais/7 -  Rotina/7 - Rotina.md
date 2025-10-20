@@ -10,5 +10,4 @@ Na pasta 7 está toda a organização da minha rotina.
 ---
 ## Referências 
  -  [[Modelo de pastas]]
- -  [[Rotina]]
  -  [[Organização]]

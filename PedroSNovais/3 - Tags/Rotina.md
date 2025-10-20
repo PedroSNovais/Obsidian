@@ -10,4 +10,5 @@ Rotina é um conjunto de [[hábitos]] que se repetem periodicamente. Geralmente 
 ---
 ## Referências
  - [[Organizar minha rotina]]
+ - [[Me organizar]]
  - [[Organização]]

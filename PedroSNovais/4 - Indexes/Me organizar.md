@@ -15,4 +15,5 @@ A Ideia de me organizar vem pairando sobre minha cabeça  à muito tempo e , mes
 -  [[eu]]
 -  [[Organizar minha rotina]]
 - [[Organização]]
+-  [[Mentalidade]]
 - 

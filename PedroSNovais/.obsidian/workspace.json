@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fb587d2dabc4e859",
+            "id": "41dc50afb44577ba",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "7 -  Rotina/Lista de Tarefas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lista de Tarefas"
             }
           }
         ]
@@ -162,44 +166,43 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "fb587d2dabc4e859",
+  "active": "f9a596486b8ae7fb",
   "lastOpenFiles": [
+    "7 -  Rotina/Tarefas/Matinal.md",
+    "7 -  Rotina/Lista de Tarefas.md",
+    "7 -  Rotina/Tarefas/Matinal",
+    "7 -  Rotina/Lista de compras.md",
+    "7 -  Rotina/Compras/Necessárias.md",
+    "7 -  Rotina/Compras/Que eu quero.md",
+    "7 -  Rotina/Tarefas/Vespertina.md",
+    "Sem título.canvas",
+    "7 -  Rotina/Tarefas/Noturna.md",
+    "4 - Indexes/Me organizar.md",
+    "3 - Tags/Rotina.md",
+    "3 - Tags/Compras.md",
+    "5 - Templates/Generic list.md",
+    "5 - Templates/Insight Note.md",
+    "5 - Templates/Generic Note.md",
+    "5 - Templates/Explicative Notes.md",
+    "5 - Templates/Concept Notes.md",
+    "7 -  Rotina/Compras",
+    "7 -  Rotina/Tarefas",
     "7 -  Rotina/7 - Rotina.md",
     "6 - Full Notes/Modelo de pastas.md",
+    "7 -  Rotina/Lista de tarefas",
     "6 - Full Notes/6 -  Notas Completas.md",
     "3 - Tags/Organização.md",
     "6 - Full Notes/Obsidian.md",
     "5 - Templates/5 - Modelos.md",
     "4 - Indexes/4 - Polos.md",
-    "5 - Templates/Concept Notes.md",
-    "5 - Templates/Explicative Notes.md",
-    "5 - Templates/Generic Note.md",
     "2 - Source Materials/2 - Materiais de fora.md",
     "3 - Tags/Ideia.md",
     "3 - Tags/hábitos.md",
-    "3 - Tags/3 - Tags e Marcadores.md",
-    "4 - Indexes/Organizar minha rotina.md",
-    "3 - Tags/Rotina.md",
-    "4 - Indexes/Me organizar.md",
-    "4 - Indexes/eu.md",
-    "3 - Tags/Mentalidade.md",
-    "1 - Rough Notes/1 - Notas Brutas.md",
-    "3 - Tags/insight.md",
-    "Sem título.canvas",
-    "Sem título.md",
-    "Nota de Teste.md",
     "6 - Full Notes",
     "5 - Templates",
     "4 - Indexes",
     "3 - Tags",
     "2 - Source Materials",
-    "1 - Rough Notes",
-    "7 -  Rotina",
-    "Sem título.base",
-    "2025-10-18.md",
-    "1 - Rought Notes/insights",
-    "insi",
-    "Bem-vindo.md",
-    "crie um link.md"
+    "1 - Rough Notes"
   ]
 }
